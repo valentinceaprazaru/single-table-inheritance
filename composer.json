@@ -1,12 +1,12 @@
 {
-  "name": "nanigans/single-table-inheritance",
+  "name": "valentinceaprazaru/single-table-inheritance",
   "description": "Single Table Inheritance Trait",
   "keywords": ["single", "table", "inheritance", "laravel", "eloquent", "model"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Jon Palmer",
-      "email": "jpalmer@nanigans.com"
+      "name": "Valentin Ceaprazaru",
+      "email": "developer@ceapraza.ru"
     }
   ],
   "require": {
